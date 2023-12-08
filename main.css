@@ -1,5 +1,5 @@
 .u-section-1 {
-    background-image: url("/png/imgBachground1.jpg");
+    background-image: url(" imgBachground1.jpg");
     background-position: 50% 50%;
 }
 
@@ -261,7 +261,7 @@
 .u-section-2 .u-image-1 {
     width: 630px;
     height: 630px;
-    background-image: url("/png/67a9353a9401f8eca193b7d665b17ebf.jpg");
+    background-image: url(" 67a9353a9401f8eca193b7d665b17ebf.jpg");
     background-position: 50% 50%;
     --animation-custom_in-translate_x: -300px;
     --animation-custom_in-translate_y: 0px;
@@ -397,7 +397,7 @@
 }
 
 .u-section-3 {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("/png/business-team-5.jpg");
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(" business-team-5.jpg");
     background-position: 50% 50%;
     margin-top: 20px;
 }
@@ -651,7 +651,7 @@
 }
 
 .u-section-4-1 {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/png/tasty-coffee-cup-and-milk-arrangement1.jpg");
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(" tasty-coffee-cup-and-milk-arrangement1.jpg");
     background-position: 50% 50%;
 }
 
@@ -732,7 +732,7 @@
 }
 
 .u-section-4-2 {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/png/two-espresso-cups-under-coffee-engine.jpg");
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(" two-espresso-cups-under-coffee-engine.jpg");
     background-position: 50% 50%;
 }
 
@@ -813,7 +813,7 @@
 }
 
 .u-section-4-3 {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/png/still-life-with-iced-coffee-beverage.jpg");
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(" still-life-with-iced-coffee-beverage.jpg");
     background-position: 50% 50%;
 }
 
